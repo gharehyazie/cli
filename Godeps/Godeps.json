@@ -74,6 +74,10 @@
 			"Rev": "2cd6d99ccf3ac7ae8398d8296429161bf7061ae2"
 		},
 		{
+			"ImportPath": "github.com/simonleung8/flags",
+			"Rev": "cd0cc00ad7c59b1e3d8c0e0a6318131da1ea4ea2"
+		},
+		{
 			"ImportPath": "gopkg.in/yaml.v2",
 			"Rev": "7ad95dd0798a40da1ccdff6dff35fd177b5edf40"
 		}
