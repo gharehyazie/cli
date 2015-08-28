@@ -10,9 +10,9 @@ import (
 	"time"
 
 	. "github.com/cloudfoundry/cli/cf/i18n"
-	"github.com/cloudfoundry/cli/flags"
 	"github.com/cloudfoundry/loggregatorlib/logmessage"
 	"github.com/cloudfoundry/sonde-go/events"
+	"github.com/simonleung8/flags"
 
 	"github.com/cloudfoundry/cli/cf"
 	"github.com/cloudfoundry/cli/cf/api"
