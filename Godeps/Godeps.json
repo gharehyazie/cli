@@ -6,20 +6,6 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "code.google.com/p/go.crypto/ssh/terminal",
-			"Comment": "null-223",
-			"Rev": "31393df5baea9ed8d6778396e7f3896070ea5c04"
-		},
-		{
-			"ImportPath": "code.google.com/p/go.net/websocket",
-			"Comment": "null-147",
-			"Rev": "d3882abcf003a8a50502be58e9f969329d331dce"
-		},
-		{
-			"ImportPath": "code.google.com/p/gogoprotobuf/proto",
-			"Rev": "6c980277330804e94257ac7ef70a3adbe1641059"
-		},
-		{
 			"ImportPath": "github.com/cloudfoundry-incubator/cli-plugin-repo/models",
 			"Rev": "c64e8e215dcfea2aa16451f9fa266523029fc39c"
 		},
@@ -76,6 +62,14 @@
 		{
 			"ImportPath": "github.com/simonleung8/flags",
 			"Rev": "cd0cc00ad7c59b1e3d8c0e0a6318131da1ea4ea2"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "aedad9a179ec1ea11b7064c57cbc6dc30d7724ec"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "d9558e5c97f85372afee28cf2b6059d7d3818919"
 		},
 		{
 			"ImportPath": "gopkg.in/yaml.v2",
